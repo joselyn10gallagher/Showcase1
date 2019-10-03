@@ -5,6 +5,11 @@ body {
 	margin: 0;
 }
 
+.box {
+	height: 150px;
+	width: 150px;
+}
+
 .green {
 	background-color: #008D24;
 }
@@ -25,15 +30,12 @@ body {
 	background-color: #EA6626;
 }
 
-.square-shape {
-	height: 150px;
-	width: 150px;
-}
 
+/*FOR THE ADVANCED CHALLENGE: Remove the /* at the begining of @media to begin*/
 
-/*
-.row {
-	height: 50%;
-	width: 100%;
+/*@media onlt screen and (max-width:){
+	body{
+		display: ;
+	}
 }
 */

@@ -33,7 +33,7 @@ body {
 
 /*FOR THE ADVANCED CHALLENGE: Remove the /* at the begining of @media to begin*/
 
-/*@media onlt screen and (max-width:){
+/*@media only screen and (max-width: ){
 	body{
 		display: ;
 	}
